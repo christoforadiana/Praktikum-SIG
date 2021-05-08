@@ -1,2 +1,2 @@
 # Praktikum-SIG
-Repository ini digunakan untuk memenuhi tugas praktikum mata kuliah sig.
+Repository ini digunakan untuk memenuhi tugas praktikum mata kuliah Sistem Informasi Geografis.
