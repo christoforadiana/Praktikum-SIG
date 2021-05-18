@@ -3,7 +3,7 @@
 <!--
     Christofora Diana Yuliawati - 1917051026
     Salsabilla Qurrota A'yuni - 1917051048
-    TUGAS 5 PRAKTIKUM SIG
+    TUGAS 5 PRAKTIKUM SIG.
     May 8, 2021
 -->
 
